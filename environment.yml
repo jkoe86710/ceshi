@@ -13,3 +13,4 @@ dependencies:
     - statsmodels
     - xlrd
     - seaborn
+    - openpyxl
